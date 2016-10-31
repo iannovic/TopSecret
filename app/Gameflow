@@ -1,0 +1,15 @@
+Character creation:
+    1. USER is logged in.
+    2. name new character.
+    3. submit and validation.
+    4. create new character in CHARACTER table linked to USER.
+
+To play an instance:
+    1. USER must choose new SCENARIO, and dispatch his CHARACTERS.
+        a. IF SCENARIO is CO-OP we must choose allies
+        b. USER A invites friend (USER B) on FRIENDS
+        c. USER B accepts invite from USER A
+    2. INSTANCE is created and stored, INSTANCE begins.
+    3. TURNS are taken until INSTANCE is resolved.
+    4  META CHARACTER and USER data is updated. INSTANCE is destroyed
+

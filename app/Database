@@ -1,0 +1,35 @@
+USER
+ userId
+ userName
+ userLevel
+ charId
+ charId2
+ charId3
+ ...
+ charIdN
+
+CHARACTER
+ CharId
+ userId (foreign) on USER
+ treeId (foreign) on TREE
+ level
+ health
+ ... (all stats)
+ damage
+ helmId
+ weaponId
+ ...(all gear iD) all foreign on EQUIPMENT
+
+TREE
+ (int on each passive)
+
+INSTANCE
+ instanceID (foreign) on instanceID
+ scenarioID (foreign) on SCENARIO
+
+SCENARIO
+
+ITEM
+
+FRIENDS
+

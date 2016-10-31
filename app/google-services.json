@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "26817935736",
+    "project_id": "firebase-topsecret"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26817935736:android:6a25e6339a14dd4f",
+        "android_client_info": {
+          "package_name": "com.example.ianno_000.topsecret"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "26817935736-5eugboc07qoojmpfuhg3oobrel8auf7f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ianno_000.topsecret",
+            "certificate_hash": "4BD92044FFDDC6ED8F132C3A00A779781B53BA6B"
+          }
+        },
+        {
+          "client_id": "26817935736-g7cjs545avfrk00kou5dd91ppb4485jk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBojaQXynsJvBmfK7fNlTMMKdjIJt_YEE8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

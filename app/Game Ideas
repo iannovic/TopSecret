@@ -1,0 +1,11 @@
+THEME:
+    RPG around colors/shapes at first to make the animations as simple as possible. Shades/colors
+    will indicate depth into different paths of trees and equipment. Not as cool as graphics but
+    will make the game easy for me to progress through without worrying about art.
+CREATE A VERSION OF THE GAME WITHOUT PRETTY UI AND WITHOUT TILE MOVEMENT
+    make simple turn based combat and proper database/mutliplayer functionality before creating a final copy
+    by doing this development will be faster and less tedious at first.
+ACHIEVE MULTIPLAYER:
+ I want this game to function as a multiplayer game, but in order to do that I need to first be able
+ to make the game single player, after the game is single player, i need to make  "co-op" missions which
+ yield greater rewards at greater efficiency
